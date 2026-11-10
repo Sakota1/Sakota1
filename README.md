@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Full Stack WEb Development and Data Science**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MYSQL SQLite**
 
 - 📫 How to reach me **saurabhprajapati5651@gmail.com**
 
-- ⚡ Fun fact **I have good sense of humour and also good chess skills**
+- ⚡ Fun fact **I can solve a Rubiks Cube**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
